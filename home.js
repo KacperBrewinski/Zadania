@@ -5,6 +5,6 @@
   <title><%= pageTitle %></title>
 </head>
 <body>
-  <div>Strona studenta - <%= pageTitle %></div>
+  <div>Strona domowa - <%= pageTitle %></div>
 </body>
 </html>
